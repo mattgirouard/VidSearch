@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/Girouard23/Desktop/CS52/VidSearch/node_modules/react-native/React/Base/RCTPerformanceLogger.h
